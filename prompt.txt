@@ -4,14 +4,15 @@
 
 The following stories have already been implemented. You can reference them for context but should NOT re-implement them:
 
-1. **Demo Html File** - Processed by Cline
+1. **Extend Html File** - Processed by Cline
+2. **Demo Html File** - Processed by Cline
 
 ## User Stories
 
 Please work on the following new stories:
 
-### Story 1: Extend Html File
-Extend the html file to a compete landing page with pure html and pure css (inline)
+### Story 1: Dummy Images
+Can you include some public dummy images on the page for testing
 
 ## Task
 
