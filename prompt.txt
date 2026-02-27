@@ -1,0 +1,12 @@
+# Project: MimicCoderGithubTest
+
+## User Stories
+
+Please work on the following new stories:
+
+### Story 1: Demo Html File
+Create a simple html file with a simple html page, use tailwind
+
+## Task
+
+Please work on the user stories listed above. Use the completed stories as reference/context but focus on implementing the new stories. Use the provided assets as needed. Write your code and explain your decisions.
