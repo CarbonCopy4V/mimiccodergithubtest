@@ -1,11 +1,17 @@
 # Project: MimicCoderGithubTest
 
+## Already Completed
+
+The following stories have already been implemented. You can reference them for context but should NOT re-implement them:
+
+1. **Demo Html File** - Processed by Cline
+
 ## User Stories
 
 Please work on the following new stories:
 
-### Story 1: Demo Html File
-Create a simple html file with a simple html page, use tailwind
+### Story 1: Extend Html File
+Extend the html file to a compete landing page with pure html and pure css (inline)
 
 ## Task
 
